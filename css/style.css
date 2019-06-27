@@ -1306,7 +1306,7 @@ body {
   margin-right: -15px;
 }
 .col-md-offset-2 {
-  margin-left: 16.666666666666664%;
+  
 }
 
 .project {
@@ -1345,5 +1345,8 @@ body {
 
   .align-items-center {
     display: none;
+}
+.site-section{
+  
 }
 }
