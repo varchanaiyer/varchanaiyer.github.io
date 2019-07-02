@@ -1358,6 +1358,11 @@ body {
 }
 .img-talks{
   width: 300px;
-    height: 200px;
+  height: 200px;
 }
+}
+
+.img-talks{
+  width: 500px;
+  height: 300px;
 }
