@@ -2,8 +2,7 @@
 
 Hi I am Archana, I am a Machine Learning Enthusiast by choice. Electrical Enginner by paperwork
 
-Currently I work at Saama Technologies. Inc as a Researcher  
-Also a part of the Intel Software Innovator Community. 
+Currently I work at Continental Automotive. Inc as an AI Engineer 
 
 You can check out my [Research papers](researchwork.md)
 
